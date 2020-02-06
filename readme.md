@@ -1,2 +1,2 @@
-#Algorithms and Javascript 
+#AlgorithmsAndJavascript 
 1 ) Frequency counter
