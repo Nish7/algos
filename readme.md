@@ -1,2 +1,2 @@
 Readme.Md 
-1 ) Frequency Country
+1 ) Frequency counter
