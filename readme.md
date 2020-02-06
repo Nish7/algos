@@ -2,7 +2,7 @@
 By Colt Steel 
 
 
-Current Stage : 
+Current Stage : <br>
 1 ) Frequency counter
 
 Futher:
