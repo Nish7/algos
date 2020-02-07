@@ -12,3 +12,17 @@ By Colt Steel
 7 ) Back Tracking<br>
 
 <h2> Recursion </h2>
+
+<h2> Searching </h2>
+<h2> Sorting</h2>
+<h2> Singly Linked lists</h2>
+<h2> doubly Linked lists</h2>
+<h2> Stacks and Queues</h2>
+<h2> Binary Search Trees</h2>
+<h2> Tree Traversal</h2>
+<h2> Binary Heaps</h2>
+<h2> Hash Tables</h2>
+<h2> Graphs</h2>
+<h2> Graphs traversal</h2>
+<h2> Dijkstra Algorithm</h2>
+<h2> Dynamic Programming</h2>
