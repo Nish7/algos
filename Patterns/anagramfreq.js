@@ -35,3 +35,44 @@ function validAnagram(strOne,strTwo){
     return true;
 
 }
+
+// time complexity: o(n^2);
+
+
+// Colt Approach
+
+function validAnagramTwo(strOne,strTwo){
+    // Check if the length is same
+    if(strOne.length !== strTwo.length){
+        return false;
+    }
+
+    // declare obj
+    const lookup = {};
+    
+    // loop frequency counter for strOne
+    for(let i = 0; i < strOne.length; i++){
+        let char  = strOne[i];
+        lookup[char] ? lookup[char] += 1 : lookup[char] = 1 ;
+    }
+
+    // Loop for strTwo 
+    for(let i  = 0;i < strTwo.length ;i++){
+        let char = strTwo[i];
+
+        // check if key exists in strOne
+        if(!(lookup[char])){
+            return false;
+        }else{
+
+            // if does remove one
+            lookup[char] -= 1;
+        }
+    }
+    
+    return true;
+    
+}
+
+// Time complexity : O(n);
+
