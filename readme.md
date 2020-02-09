@@ -3,7 +3,7 @@ By Colt Steel
 
 
 <h2> Patterns </h2>
-1 ) Frequency counter 
+1 ) Frequency counter <br>
 2 ) Multiple Pointer Pattern <br>
 3 ) Sliding window pattern <br>
 <b> 4 ) Divide and conquer </b> <br>
