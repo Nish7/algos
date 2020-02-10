@@ -1,3 +1,5 @@
+//Coding Exercise 2_ CountUniqueValues
+
 function countUniqueValue(arr){
     let left = 0;
     let right = 1;
