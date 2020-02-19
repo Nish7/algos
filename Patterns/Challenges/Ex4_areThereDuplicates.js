@@ -13,6 +13,7 @@ arethereDuplicates(12,12,3) // true
 
 function areThereDuplicates() {
     let collection = {}
+    //Arguments is build in array 
     for(let val in arguments){
       collection[arguments[val]] = (collection[arguments[val]] || 0) + 1;
     }
