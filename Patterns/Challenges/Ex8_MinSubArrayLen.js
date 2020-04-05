@@ -37,8 +37,5 @@ function minSubArrayLen(arr,num){
             
         }
         
-    }
-    
-    
-    
+    }   
 }
