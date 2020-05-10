@@ -2,4 +2,5 @@
 
 - [x] Singly Linked List
 - [x] Doubly Linked List
-- [ ] Stacks and Queque
+- [x] Stacks and Queque
+- [x] Trees
