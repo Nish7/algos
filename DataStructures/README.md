@@ -3,4 +3,5 @@
 - [x] Singly Linked List
 - [x] Doubly Linked List
 - [x] Stacks and Queque
-- [x] Trees
+- [x] Binary Search Trees
+- [ ] Trees Traversal 

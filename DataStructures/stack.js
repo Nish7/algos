@@ -64,8 +64,6 @@ stack.push(72);
 stack.push(112);
 
 stack.pop();
-stack.pop();
-// stack.pop();
 
 
-console.log(stack);
+// console.log(stack);
