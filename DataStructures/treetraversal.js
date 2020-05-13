@@ -121,4 +121,5 @@ tree.bfs();
 tree.dft_pre();
 tree.dft_post();
 
+
 console.log(tree);
