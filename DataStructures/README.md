@@ -4,4 +4,6 @@
 - [x] Doubly Linked List
 - [x] Stacks and Queque
 - [x] Binary Search Trees
-- [ ] Trees Traversal
+- [x] Trees Traversal
+- [ ] Binary Heaps
+
