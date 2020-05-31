@@ -5,5 +5,7 @@
 - [x] Stacks and Queque
 - [x] Binary Search Trees
 - [x] Trees Traversal
-- [ ] Binary Heaps
-
+- [x] Binary Heaps
+- [x] Hash Tables
+- [x] Graphs and Graph traversal
+- [ ] Diljkstra's
