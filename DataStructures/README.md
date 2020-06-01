@@ -8,4 +8,5 @@
 - [x] Binary Heaps
 - [x] Hash Tables
 - [x] Graphs and Graph traversal
-- [ ] Diljkstra's
+- [x] Diljkstra's
+- [ ] Dynamic Programming
