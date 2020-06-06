@@ -9,4 +9,6 @@
 - [x] Hash Tables
 - [x] Graphs and Graph traversal
 - [x] Diljkstra's
-- [ ] Dynamic Programming
+- [x] Dynamic Programming
+
+

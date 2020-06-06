@@ -71,11 +71,13 @@ class WeightedGraph {
 				for (let key in this.adjacencyList[curr]) {
 					let next = this.adjacencyList[curr][key];
 					let cand = distances[curr] + next.weight;
+					console.log(next, cand);
 
 					if (cand < distances[next.node]) {
 						distances[next.node] = cand;
 						prev[next.node] = curr;
 						pq.enq(next.node, cand);
+						// console.log(pq);
 					}
 				}
 			}
@@ -104,4 +106,20 @@ graph.addE('E', 'F', 3);
 graph.addE('F', 'G', 19);
 graph.addE('B', 'F', 120);
 
-console.log(graph.djlk('A', 'E'));
+// graph.addV('A');
+// graph.addV('B');
+// graph.addV('C');
+// graph.addV('D');
+// graph.addV('E');
+// graph.addV('F');
+
+// graph.addE('A', 'B', 4);
+// graph.addE('A', 'C', 2);
+// graph.addE('B', 'E', 3);
+// graph.addE('C', 'D', 2);
+// graph.addE('C', 'F', 4);
+// graph.addE('D', 'E', 3);
+// graph.addE('D', 'F', 1);
+// graph.addE('E', 'F', 1);
+
+console.log(graph.djlk('A', 'K'));
